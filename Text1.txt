@@ -1,4 +1,11 @@
 All are leaders
 
-This is a testing from dev3
+sum(int a,int b){
+    return a+b;
+}
+
+main(){
+  int  a = sum(2,3)
+   print(a)
+}
 
